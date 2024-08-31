@@ -1,0 +1,60 @@
+@font-face {
+    font-family: Manuscrita;
+    src: url(study_alone/Study\ Alone.otf) format(opentype);
+}
+@font-face {
+    font-family: 'Maquina';
+    src: url(jmh_typewriter/JMH\ Typewriter-Thin.otf) format(opentype);
+}
+
+body {
+    background-color: #fff0f5;
+    color: #8b0000f6;
+    font-family: 'Maquina';
+    font-size: 50px;
+}
+
+header {
+    font-family: 'Manuscrita';
+    background-color: #ffb6c1;
+    text-align: center;
+    padding: 20px 0;
+    font-size: 20px;
+}
+
+
+
+.poesia{
+text-align: center;
+font-size: 30px;
+}
+
+
+
+h2 {
+    font-size: 1.8em;
+    border-bottom: 2px solid #8b0000;
+    padding-bottom: 10px;
+}
+
+ .images {
+    background-image: url('WhatsApp\ Image\ 2024-08-30\ at\ 21.49.26.jpeg');
+    height: 100vh;
+    background-repeat: no-repeat;
+    
+    background-size: contain;
+     background-attachment: fixed;
+}
+
+
+.images2 {
+    background-image: url('WhatsApp\ Image\ 2024-08-30\ at\ 21.55.23.jpeg');
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-size: contain;
+     background-attachment: fixed;
+}
+
+
+
+
